@@ -8,3 +8,8 @@ function masinHesabi() {
         console.log(selectedcar);
     }
 }
+
+
+function salam() {
+    console.log("hello owdhk");
+}
